@@ -1,21 +1,19 @@
 
----
-
-# Business Card App
+# 💼 Business Card App
 
 This is a simple business card application developed using Kotlin and Jetpack Compose. It displays contact details such as name, title, phone number, email, and social media links in a visually appealing and minimalistic UI. This project was created as part of Google's Android Basics with Compose course.
 
-## Features
+## ⚡ Features
 
 - **Customizable Info**: Easily change the contact details like name, title, phone, email, and social media links.
 - **Jetpack Compose**: Utilizes the modern Jetpack Compose UI toolkit to build the user interface.
 - **Edge-to-Edge Display**: Full-screen design with edge-to-edge layout for a sleek and modern look.
 
-## Screenshots
+## 📸 Screenshots
 
 <img src="Screenshot_20250425_173148.png" alt="Business Card Screenshot" width="400"/>
 
-## Installation
+## 🛠️ Installation
 
 To run this app, follow these steps:
 
@@ -43,7 +41,7 @@ You can easily modify the contact information by updating the strings in the `re
 <string name="android">Android Developer</string>
 ```
 
-## Tech Stack
+## 🖥️ Tech Stack
 
 - **Kotlin**: The primary language for building the app.
 - **Jetpack Compose**: A modern toolkit for building native UIs.
