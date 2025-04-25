@@ -15,7 +15,7 @@ This is a simple business card application developed using Kotlin and Jetpack Co
 
 ## Screenshots
 
-![Business Card Screenshot](Screenshot_20250425_173148.png.png)
+![Business Card Screenshot](Screenshot_20250425_173148.png)
 
 ## Installation
 
@@ -23,7 +23,7 @@ To run this app, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/business-card-app.git
+    git clone https://github.com/RishantBana/business-card-app.git
     ```
 
 2. Open the project in **Android Studio**.
