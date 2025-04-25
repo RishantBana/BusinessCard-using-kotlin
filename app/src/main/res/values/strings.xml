@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Rishant Bana</string>
+    <string name="title">Student</string>
+    <string name="phone">9999999999</string>
+    <string name="email">vrbros2@gmail.com</string>
+    <string name="social">\@RishantBana</string>
+    <string name="android">android</string>
+</resources>
