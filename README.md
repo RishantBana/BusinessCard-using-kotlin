@@ -15,7 +15,7 @@ This is a simple business card application developed using Kotlin and Jetpack Co
 
 ## Screenshots
 
-<img src="Screenshot_20250425_173148.png" alt="Business Card Screenshot" width="400" height="300"/>
+![Business Card Screenshot](Screenshot_20250425_173148.png)
 
 ## Installation
 
