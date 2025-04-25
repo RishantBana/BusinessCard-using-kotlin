@@ -1,4 +1,3 @@
-Here's a basic structure for your README file:
 
 ---
 
@@ -11,7 +10,6 @@ This is a simple business card application developed using Kotlin and Jetpack Co
 - **Customizable Info**: Easily change the contact details like name, title, phone, email, and social media links.
 - **Jetpack Compose**: Utilizes the modern Jetpack Compose UI toolkit to build the user interface.
 - **Edge-to-Edge Display**: Full-screen design with edge-to-edge layout for a sleek and modern look.
-- **Responsive UI**: The app is designed to be responsive and adjusts well to different screen sizes.
 
 ## Screenshots
 
@@ -55,7 +53,4 @@ You can easily modify the contact information by updating the strings in the `re
 
 Feel free to fork this repository and submit pull requests for any improvements or features you'd like to add.
 
-
 ---
-
-Feel free to modify any sections (like the screenshots or the contributing section) as per your project needs!
